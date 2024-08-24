@@ -11,7 +11,7 @@
 
 2. [The Future of Work: A data-driven approach to understanding the job market [Python:Seaborn,Altair]](https://github.com/hibahassan96/The-Future-of-Work-A-data-driven-approach-to-understanding-the-job-market) - Leveraged Python’s Pandas and Altair to design a comprehensive analysis of AI’s impact on job markets and startup ecosystems. We employed advanced data visualization and statistical techniques to investigate AI job postings, regional growth patterns, and startup valuations. Our findings reveal key trends in tech job distribution, regional AI opportunities, and the effects of funding and accelerators on startup success.
 
-3. Digital Transformation: A data story [Tableau| Shorthand| Figma]
+3. Digital Transformation: A data story [Tableau | Shorthand | Figma]
 
 4. Financial Inclusion Analytics with R [R]
 
