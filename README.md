@@ -18,9 +18,7 @@
 6. [Digital Transformation: A data story [Tableau | Shorthand | Figma]](https://preview.shorthand.com/f0VL0RSaMQNXBT8p#section-Introduction-ZVmJW1jjkR) - Crafted a data-driven narrative on Pakistan's digital transformation using Python for in-depth analysis, Shorthand, Flourish and Infogram for compelling visualizations. Analyzed trends in connectivity and skill development, incorporating user feedback to refine the storyline. Created interactive charts and actionable insights to showcase the transformative impact of mobile connectivity and drive policy advancements.
 More details can be viewed [here](https://hibahassan96.github.io/hibah-tswd-portfolio/Project_III_PakistansDigitization.html)
 
-7. Financial Inclusion Analytics with R [R]
-
-
+7. [Financial Inclusion Analytics with R [R]](https://github.com/hibahassan96/Global-Financial-Inclusion-Analytics) - This project utilized the World Bank's Global Findex Database 2021 to analyze global financial service adoption and resistance. Through data cleaning, importation into R, and detailed analysis—including the use of the `likert` package for visualizations—I identified demographic and regional disparities in financial service usage. Key findings highlighted younger adults as primary users, significant regional access variations, and barriers such as documentation issues and distrust. Recommendations focus on enhancing digital access and simplifying financial service adoption.
 
 8. Empowering Sustainability through Predictive Analytics [Python]
    
