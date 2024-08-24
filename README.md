@@ -15,7 +15,8 @@
 
 4. [Geospatial analytics to understand Social Determinants of Health [ArcGIS]](https://github.com/hibahassan96/Geospatial-Analytics-to-understand-Social-Determinants-of-Health) - Leveraged advanced geospatial analytics in ArcGIS Pro to model and visualize social determinants of health (SDOH) among children in Allegheny County. Integrated and spatially joined heterogeneous datasets, including PM2.5 concentrations, obesity prevalence, and housing stability metrics, to construct a multi-layered health risk index. Applied spatial interpolation techniques and conducted hotspot analysis to identify high-risk clusters, informing data-driven recommendations for precision-targeted community interventions.
    
-6. Digital Transformation: A data story [Tableau | Shorthand | Figma]
+6. [Digital Transformation: A data story [Tableau | Shorthand | Figma]](https://preview.shorthand.com/f0VL0RSaMQNXBT8p#section-Introduction-ZVmJW1jjkR) - Crafted a data-driven narrative on Pakistan's digital transformation using Python for in-depth analysis, Shorthand, Flourish and Infogram for compelling visualizations. Analyzed trends in connectivity and skill development, incorporating user feedback to refine the storyline. Created interactive charts and actionable insights to showcase the transformative impact of mobile connectivity and drive policy advancements.
+More details can be viewed [here](https://hibahassan96.github.io/hibah-tswd-portfolio/Project_III_PakistansDigitization.html)
 
 7. Financial Inclusion Analytics with R [R]
 
