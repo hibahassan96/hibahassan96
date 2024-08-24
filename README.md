@@ -14,5 +14,6 @@
 
 # Privacy, Security and Internet Governance Projects
 
-👩‍💻 Python | SQL | Excel | R | Stata
+👩‍💻 Python | SQL | Excel | R | Stata | Tableau
+
 🧠 Data Analytics | Financial Analysis and Consultancy | Business Strategy 
