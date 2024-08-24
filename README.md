@@ -17,7 +17,7 @@
 
 5. [Optimization of Food Accessibility [Python | ArcGIS]](https://github.com/hibahassan96/Optimization-of-Food-Accessibility-in-Alleghany-County) - Conducted a comprehensive analysis using GIS and advanced data analytics techniques to address food insecurity in Allegheny County. Through exploratory data analysis (EDA) and network analysis, identified key census tracts with high SNAP eligibility and significant barriers to accessing EBT-accepting stores, particularly in terms of walk times. These insights were used to prioritize and recommend strategic interventions for the SNAP Policy Division within the Pennsylvania Department of Human Services, aimed at enhancing food accessibility and reducing socio-economic disparities in the region.
 
-6. Geospatial analytics to drive Social Determinants of Health [ArcGIS]
+6. [Geospatial analytics to understand Social Determinants of Health [ArcGIS]]() -
 
 7. Empowering Sustainability through Predictive Analytics [Python]
    
