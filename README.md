@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hello, I am Hiba Hassan 👋
 
-<!--
-**hibahassan96/hibahassan96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I am a MSc Public Policy and Data Analytics graduate from Carnegie Mellon University.
 
-Here are some ideas to get you started:
+📚 I am interested in converting data into insights, Data-driven Storytelling, Generative AI, Privacy and Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Here's a link to my [LinkedIn Profile](https://www.linkedin.com/in/hiba-h-236046162/) if you would like to know a little more.
+
+# Data Science Projects Portfolio
+## Visualization
+## Machine Learning
+## GIS 
+## Business Analytics
+
+# Privacy, Security and Internet Governance Projects
