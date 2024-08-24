@@ -8,8 +8,11 @@
 
 # Data Science Projects Portfolio
 1. [Health Metrics Impact: A Data Visualization Approach [Python:Matplotlib, Seaborn]](https://github.com/hibahassan96/Health-Metrics-Impact-A-Data-Visualization-Approach) - Utilizing the CDC’s Youth Risk Behavior Surveillance System (YRBSS) dataset, this project employed advanced data cleaning, normalization, and aggregation techniques to develop a comprehensive Health Index. Through Seaborn and Matplotlib visualizations, we identified a 58% decline in average student health and analyzed the correlation between health metrics and socio-economic outcomes. The findings support policy recommendations including restricting vapor product sales to minors, enhancing nutritional support in schools, and increasing sports participation to address identified health disparities.
-2. [The Future of Work: A data-driven approach to understanding the job market [Python:Seaborn, Altair]](https://github.com/hibahassan96/The-Future-of-Work-A-data-driven-approach-to-understanding-the-job-market) -
+
+2. [The Future of Work: A data-driven approach to understanding the job market [Python:Seaborn, Altair]](https://github.com/hibahassan96/The-Future-of-Work-A-data-driven-approach-to-understanding-the-job-market) - Leveraged Python’s Pandas and Altair to design a comprehensive analysis of AI’s impact on job markets and startup ecosystems. We employed advanced data visualization and statistical techniques to investigate AI job postings, regional growth patterns, and startup valuations. Our findings reveal key trends in tech job distribution, regional AI opportunities, and the effects of funding and accelerators on startup success.
+
 3. Digital Transformation: A data story [Tableau][Shorthand][Figma]
+
 4. Financial Inclusion Analytics with R [R]
 5. Optimization of Food Accessibility [Python][ArcGIS]
 6. Geospatial analytics to drive Social Determinants of Health [ArcGIS]
