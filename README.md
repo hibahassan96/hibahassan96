@@ -2,7 +2,7 @@
 
 🌱 I am a MSc Public Policy and Data Analytics graduate from Carnegie Mellon University.
 
-📚 I am interested in converting data into insights, Data-driven Storytelling, Generative AI, Privacy and Security
+📚 I am interested in converting raw data into insights, Data-driven Storytelling, Generative AI, Privacy and Security
 
 📫 Here's a link to my [LinkedIn Profile](https://www.linkedin.com/in/hiba-h-236046162/) if you would like to know a little more.
 
@@ -13,3 +13,6 @@
 ## Business Analytics
 
 # Privacy, Security and Internet Governance Projects
+
+👩‍💻 Python | SQL | Excel | R | Stata
+🧠 Data Analytics | Financial Analysis and Consultancy | Business Strategy 
