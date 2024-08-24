@@ -14,8 +14,11 @@
 3. Digital Transformation: A data story [Tableau][Shorthand][Figma]
 
 4. Financial Inclusion Analytics with R [R]
-5. Optimization of Food Accessibility [Python][ArcGIS]
+
+5. [Optimization of Food Accessibility [Python][ArcGIS]](https://github.com/hibahassan96/Optimization-of-Food-Accessibility-in-Alleghany-County) -
+
 6. Geospatial analytics to drive Social Determinants of Health [ArcGIS]
+
 7. Empowering Sustainability through Predictive Analytics [Python]
    
 # Privacy, Security and Internet Governance Projects
