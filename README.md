@@ -20,10 +20,6 @@ More details can be viewed [here](https://hibahassan96.github.io/hibah-tswd-port
 
 7. [Financial Inclusion Analytics with R [R]](https://github.com/hibahassan96/Global-Financial-Inclusion-Analytics) - This project utilized the World Bank's Global Findex Database 2021 to analyze global financial service adoption and resistance. Through data cleaning, importation into R, and detailed analysis—including the use of the `likert` package for visualizations—I identified demographic and regional disparities in financial service usage. Key findings highlighted younger adults as primary users, significant regional access variations, and barriers such as documentation issues and distrust. Recommendations focus on enhancing digital access and simplifying financial service adoption.
 
-8. Empowering Sustainability through Predictive Analytics [Python]
-   
-# Privacy, Security and Internet Governance Projects
-
 👩‍💻 Python | SQL | Excel | R | Stata | Tableau
 
 🧠 Data Analytics | Financial Analysis and Consultancy | Business Strategy 
