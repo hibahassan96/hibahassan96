@@ -35,4 +35,4 @@ Check out the [talk here (starts at 2:36:00)](https://www.youtube.com/watch?v=OT
 
 🧠 Data Analytics | Financial Analysis and Consultancy | Business Strategy 
 
-💡🎁 Here is a fun fact about me - I started a small, customized gift service to channel my inner artist in a unique way: [The Basket Factory](https://www.instagram.com/thebasketfactorylahore/?hl=en)
+🎨🎁 Fun fact about me: I channeled my creative side by launching a customized gift basket business [The Basket Factory](https://www.instagram.com/thebasketfactorylahore/?hl=en)
